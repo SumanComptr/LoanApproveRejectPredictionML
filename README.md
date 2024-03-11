@@ -15,5 +15,5 @@ The basic procedures implemented to achieve the goals of this research are:
 8. Model accuracy evaluation
 
 a. Programming Language - Python
-b. Libreary/Packages - Numpy,Pandas,MatPlotlib,Seaborn,Skikit-learn
+b. Libreary/Packages - Numpy,Pandas,MatPlotlib,Seaborn,Scikit-learn
 c. Statistical Algorithm - Random Forest Tree
